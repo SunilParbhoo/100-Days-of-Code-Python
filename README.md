@@ -6,3 +6,5 @@ I chose this course (having completed a couple of other Python courses) because 
 ## 👨‍🎓 Beginner
 
 - [Day 1:](https://github.com/SunilParbhoo/100-Days-of-Code-Python/tree/main/day01) Working with Variables in Python to Manage Data
+
+- [Day 2:](https://github.com/SunilParbhoo/100-Days-of-Code-Python/tree/main/day02) Understanding Data Types and How to Manipulate Strings
