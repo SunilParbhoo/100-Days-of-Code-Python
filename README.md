@@ -11,3 +11,5 @@ I chose this course (having completed a couple of other Python courses) because 
 
 - [Day 3:](https://github.com/SunilParbhoo/100-Days-of-Code-Python/tree/main/day03)
   Control Flow and Logical Operators
+
+- [Day 4:](https://github.com/SunilParbhoo/100-Days-of-Code-Python/tree/main/day04) Randomization and Python Lists
