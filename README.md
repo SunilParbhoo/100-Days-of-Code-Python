@@ -15,3 +15,5 @@ I chose this course (having completed a couple of other Python courses) because 
 - [Day 4:](https://github.com/SunilParbhoo/100-Days-of-Code-Python/tree/main/day04) Randomization and Python Lists
 
 - [Day 5:](https://github.com/SunilParbhoo/100-Days-of-Code-Python/tree/main/day05) Python Loops
+
+- [Day 6:](https://github.com/SunilParbhoo/100-Days-of-Code-Python/tree/main/day06) Python Functions and Karel
