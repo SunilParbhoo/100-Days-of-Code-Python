@@ -17,3 +17,16 @@ I chose this course (having completed a couple of other Python courses) because 
 - [Day 5:](https://github.com/SunilParbhoo/100-Days-of-Code-Python/tree/main/day05) Python Loops
 
 - [Day 6:](https://github.com/SunilParbhoo/100-Days-of-Code-Python/tree/main/day06) Python Functions and Karel
+
+- [Day 7:](https://github.com/SunilParbhoo/100-Days-of-Code-Python/tree/main/day07) Hangman
+
+## Professional Portfolio Projects
+
+- TBA
+
+## Tools and Technologies Covered
+
+- Python 3
+- Replit.com & CodingRooms.com
+- Drawio (for flowchart wireframes and mockups)
+-
