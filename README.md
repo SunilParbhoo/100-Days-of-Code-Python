@@ -20,6 +20,8 @@ I chose this course (having completed a couple of other Python courses) because 
 
 - [Day 7:](https://github.com/SunilParbhoo/100-Days-of-Code-Python/tree/main/day07) Hangman
 
+- [Day 8:](https://github.com/SunilParbhoo/100-Days-of-Code-Python/tree/main/day08) Function Parameters and Caesar Cipher
+
 ## Professional Portfolio Projects
 
 - TBA
